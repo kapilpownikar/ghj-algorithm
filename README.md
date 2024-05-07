@@ -4,6 +4,7 @@ Makefile: this file allows you to compile and run a test run of GHJ.
 left_rel.txt, right_rel.txt: these two sample text files store all the data records for a left and right relation, which you can use for testing. 
 
 For simplicity, each line in the text file serves as one data record. The data records in the text files are formatted as:
+                              
                               key1 data1
                               key2 data2
                               key3 data3
