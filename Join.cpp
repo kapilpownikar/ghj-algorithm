@@ -11,7 +11,7 @@ using namespace std;
 vector<Bucket> partition(Disk* disk, Mem* mem, pair<uint, uint> left_rel,
                          pair<uint, uint> right_rel) {
 
-	// TODO: implement partition phase
+	// Implementing partition phase
 	vector<Bucket> partitions(MEM_SIZE_IN_PAGE - 1, Bucket(disk));
 	uint input_page_id = MEM_SIZE_IN_PAGE - 1; // input buffer is the 16th page in pages[]; is a mem_page_id
 	
