@@ -22,3 +22,26 @@ To remove all extraneous files, run
 
 <img width="544" alt="image" src="https://github.com/kapilpownikar/ghj-algorithm/assets/93685855/0f19a5ed-424e-4cfa-a7a6-1e0634a4fe14">
 
+The result of joining left_rel.txt and right_rel.txt should look similar to the output below:
+
+                  Size of GHJ result: 1 pages
+                  Page 0 with disk id = 6
+                  Record with key=0 and data=0l
+                  Record with key=0 and data=0r
+                  Record with key=1 and data=1l
+                  Record with key=1 and data=1r
+                  Record with key=1 and data=1l
+                  Record with key=1 and data=11r
+                  Record with key=1 and data=11l
+                  Record with key=1 and data=1r
+                  Record with key=1 and data=11l
+                  Record with key=1 and data=11r
+                  Record with key=1 and data=111l
+                  Record with key=1 and data=1r
+                  Record with key=1 and data=111l
+                  Record with key=1 and data=11r
+
+In the output above, each pair of records is a joined result. For example,
+
+                  Record with key=1 and data=1l
+                  Record with key=1 and data=1r
