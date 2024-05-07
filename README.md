@@ -1,4 +1,3 @@
-To Make:
 main.cpp: this file loads the text files and emulates the whole process of GHJ. It also outputs the GHJ result.
 Makefile: this file allows you to compile and run a test run of GHJ.
 left_rel.txt, right_rel.txt: these two sample text files store all the data records for a left and right relation, which you can use for testing. 
