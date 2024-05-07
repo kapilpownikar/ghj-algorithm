@@ -19,3 +19,6 @@ where left_rel.txt and right_rel.txt represent the two text file names that cont
 To remove all extraneous files, run
         
                   $ make clean
+
+<img width="544" alt="image" src="https://github.com/kapilpownikar/ghj-algorithm/assets/93685855/0f19a5ed-424e-4cfa-a7a6-1e0634a4fe14">
+
